@@ -3,7 +3,7 @@
 A modern, highly responsive 2D virtual world and community forum featuring real-time, in-browser interaction.
 
 🌐 **Live Site:** [phantasim.vercel.app](https://vercel.app)
-💻 **Dev Hub:** "Main Source is hidden due to our code privacy."
+💻 **Dev Hub:** ["Main Source is hidden due to our code privacy."](https://github.com/NotKatxen/phantasim)
 
 ---
 
