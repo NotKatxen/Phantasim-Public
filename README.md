@@ -18,6 +18,8 @@ A modern, highly responsive 2D virtual world and community forum featuring real-
 *   ** GitHub:** Central repository for code storage and CI/CD triggers.
 *   ** Vercel:** Global cloud hosting for automatic, instant deployments.
 *   ** Firebase:** Powers secure Auth and real-time database functions.
+*   ** OneSignal** For notifications.
+*   ** Median.co** To make the app possible.
 
 ---
 
