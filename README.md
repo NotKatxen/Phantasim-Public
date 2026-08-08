@@ -13,7 +13,7 @@ A modern, highly responsive 2D virtual world and community forum featuring real-
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tools Used
 
 *   ** GitHub:** Central repository for code storage and CI/CD triggers.
 *   ** Vercel:** Global cloud hosting for automatic, instant deployments.
